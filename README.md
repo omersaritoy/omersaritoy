@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🎓 **Software Engineer** with a B.Sc. in Computer Engineering (Batman University, 2025), focused on backend development with **Java and Spring Boot**, building clean, scalable and maintainable server-side applications.
+🎓 **Software Engineer** with a B.Sc. in Computer Engineering, focused on backend development with **Java and Spring Boot**, building clean, scalable and maintainable server-side applications.
 
 🧠 Experienced in designing RESTful APIs following SOLID principles, Clean/Layered Architecture, Microservices and Event-Driven Architecture, with a strong emphasis on readability and long-term maintainability.
 
